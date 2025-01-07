@@ -1,0 +1,26 @@
+/* SINTAXE CSS */
+
+/*A sintaxe do CSS é a maneira pela qual as regras de estilo são escritas. 
+Em CSS, você usa seletores para identificar elementos HTML e, em seguida, aplica propriedades e valores a esses elementos para definir sua aparência.
+A sintaxe CSS refere-se à estrutura da escrita das regras de estilo. 
+Uma regra CSS é composta por um seletor e um bloco de declaração. 
+O seletor escolhe o elemento HTML ao qual o estilo será aplicado, e a declaração contém a propriedade e o valor que define o estilo.
+Você usará a sintaxe CSS toda vez que quiser aplicar estilos a um documento HTML. 
+Isso é feito em arquivos CSS, ou dentro de tags <style> no próprio HTML, ou inline diretamente no atributo style de um elemento.
+ */
+
+/* Estilo para um menu de navegação */
+nav {
+  display: flex; /* Usando Flexbox para o layout */
+  justify-content: space-around; /* Distribui os itens de forma espaçada */
+  background-color: #333; /* Cor de fundo */
+  padding: 10px 0; /* Padding em cima e embaixo */
+}
+nav a {
+  color: white; /* Cor do texto */
+  text-decoration: none; /* Remove o sublinhado */
+  font-size: 18px; /* Tamanho da fonte */
+}
+nav a:hover {
+  color: lightblue; /* Cor do texto ao passar o mouse */
+}
