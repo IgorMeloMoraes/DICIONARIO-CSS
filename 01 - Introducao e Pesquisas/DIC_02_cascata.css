@@ -1,0 +1,12 @@
+/* ORDEM EM CASCATA */
+
+/* A Ordem em Cascata é a forma como o CSS resolve conflitos de estilo quando várias regras se aplicam ao mesmo elemento. 
+Quando múltiplas fontes de estilo são aplicadas a um elemento, o navegador usa a ordem de cascata para determinar qual regra prevalecerá. 
+A ordem de cascata é baseada em três fatores principais: a origem do estilo, a especificidade do seletor e a ordem em que as regras são aplicadas.
+A Ordem em Cascata significa que, quando várias regras CSS estão aplicadas a um único elemento, o navegador segue uma hierarquia para decidir qual regra aplicar. 
+A regra com maior especificidade, seguida pela ordem das regras, determinará o estilo final.
+A Ordem em Cascata é usada sempre que há múltiplas regras de estilo aplicadas a um único elemento. 
+É fundamental entender essa ordem para evitar que um estilo não desejado sobrescreva outro, principalmente em projetos grandes com múltiplos arquivos CSS.
+A Ordem em Cascata é fundamental para garantir que os estilos sejam aplicados de forma consistente, respeitando a ordem de prioridade das regras. 
+Isso evita confusão e permite que regras mais específicas se sobreponham às mais genéricas.
+ */
