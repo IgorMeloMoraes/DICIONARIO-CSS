@@ -1,0 +1,16 @@
+/* O QUE É CSS */
+
+/* CSS (Cascading Style Sheets) é uma linguagem usada para descrever a apresentação de um documento escrito em HTML ou XML. 
+Ela define como os elementos devem ser exibidos em telas, papéis ou outras mídias.
+O CSS controla o layout, cores, fontes, espaçamento e outros aspectos do design de um site. 
+A sigla CSS significa Cascading Style Sheets, onde "Cascading" se refere ao processo de como as regras de estilo podem ser aplicadas de forma hierárquica, com regras de maior especificidade sobrepondo as de menor especificidade.
+Você deve usar o CSS sempre que quiser controlar o estilo e a aparência visual de um site ou aplicativo. 
+É imprescindível para criar layouts, definir fontes, cores e controlar a apresentação dos elementos HTML.
+CSS é essencial para a separação entre conteúdo e apresentação. 
+Ele permite que você tenha um código HTML limpo e organizado, enquanto o estilo do site é mantido separado e pode ser reutilizado em várias páginas.
+Além disso, ele facilita a criação de layouts adaptáveis (responsivos).
+CSS tem uma importância fundamental no desenvolvimento web porque é o principal responsável pela aparência visual de uma página. 
+Sem CSS, as páginas web seriam apenas textos e imagens sem qualquer formatação ou estrutura visual.
+O CSS foi criado em 1994 por Håkon Wium Lie. 
+Antes disso, as páginas web eram estilizadas diretamente com HTML, o que tornava o processo de design complexo e difícil de manter. 
+A introdução do CSS trouxe uma abordagem mais modular e eficiente para separar a estrutura (HTML) da apresentação (CSS).  */
