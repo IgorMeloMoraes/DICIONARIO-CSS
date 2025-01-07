@@ -1,0 +1,33 @@
+/* COMENTÁRIOS CSS /*
+
+
+/*Comentários em CSS são usados para adicionar notas explicativas ou descritivas no código, sem afetar a execução do estilo na página. 
+Eles ajudam os desenvolvedores a entender melhor o código e a se comunicar com outros desenvolvedores, especialmente em projetos grandes.
+Comentários em CSS são trechos de texto que o navegador ignora ao processar o código. 
+Eles servem apenas como notas para quem está lendo ou editando o código. 
+Comentários podem ser simples, com uma linha, ou compostos, que ocupam várias linhas.
+Precisar explicar ou esclarecer a funcionalidade de um trecho de código.
+Quiser deixar lembretes ou instruções para outros desenvolvedores ou para você mesmo no futuro.
+Precisar desabilitar temporariamente uma parte do código sem apagá-la.
+ */
+
+/* Definindo o layout geral do site */
+.container {
+  width: 100%;
+  margin: 0 auto;
+  /* Estabelecendo o alinhamento e centralização da página */
+}
+/* Definindo o estilo dos links dentro do menu de navegação */
+.navbar a {
+  color: #333;
+  text-decoration: none;
+  padding: 10px;
+  /* Cor de fundo que aparece quando o link é pressionado */
+  background-color: #ddd;
+}
+/* Estilizando o rodapé */
+footer {
+  font-size: 14px;
+  color: #777;
+  text-align: center;
+}
