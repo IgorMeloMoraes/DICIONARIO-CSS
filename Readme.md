@@ -8,3 +8,6 @@ Dicionário Completos:
 . Seletores 
 . Cores 
 . Background 
+. Bordas 
+. Outline 
+. 
