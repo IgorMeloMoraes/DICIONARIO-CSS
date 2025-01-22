@@ -10,4 +10,4 @@ Dicionário Completos:
 . Background 
 . Bordas 
 . Outline 
-. 
+. Textos e Formatação 
