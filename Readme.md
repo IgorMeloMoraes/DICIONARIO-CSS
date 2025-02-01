@@ -11,3 +11,5 @@ Dicionário Completos:
 . Bordas 
 . Outline 
 . Textos e Formatação 
+. Fontes 
+. Links e Ícones 
